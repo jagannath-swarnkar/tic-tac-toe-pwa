@@ -35,7 +35,7 @@ const GamePage = () => {
         }
         setTimeout(() => {
             setShowIntstallationPopup(false);
-        }, 60000);
+        }, 20000);
     }, []);
     useEffect(() => {
         // check winner
