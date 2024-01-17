@@ -17,7 +17,14 @@ this.addEventListener("install", (event) => {
                 "/mbg.jpeg",
                 "/restart.png",
                 "/right-arrow.png",
-                "/win.png"
+                "/win.png",
+                "/bg_music_1.mp3",
+                "button_sound1.mp3",
+                "fail.flac",
+                "restart.wav",
+                "reset.wav",
+                "winner_sound.wav",
+                "wrong.mp3",
             ]);
         })
     );
